@@ -1,0 +1,9 @@
+<resources>
+    <!-- Name of the App-->
+    <string name="app_name">Trinetra</string>
+    <!-- Name of user. For now, it is hardcoded -->
+    <string name="user_name">User 1</string>
+    <!-- Caption of APP-->
+    <string name="caption">\" You are being Watched \"</string>
+    <string name="user_pic">picture.png</string>
+</resources>

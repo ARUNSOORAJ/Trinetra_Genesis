@@ -1,0 +1,8 @@
+background
+car
+bus
+truck
+auto
+bike
+pedestrian
+rider
